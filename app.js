@@ -60,5 +60,7 @@ app.use('/', resume);
 const aboutMe = require('./routes/about-me');
 app.use('/', aboutMe);
 
+const projects = require('./routes/projects');
+app.use('/', projects);
 
 module.exports = app;

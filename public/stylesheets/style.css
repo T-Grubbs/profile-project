@@ -5,4 +5,31 @@ body {
 a {
   color: #00B7FF; }
 
+  .introDiv{
+    padding: 0 0 0 100px;
+
+  }
+
+.textCenter{
+  text-align: center;
+}
+
+.resumeDiv{
+  padding: 0 125px;
+}
+
+.resumeBorder{
+  border-radius: 15px;
+  border: 1px solid black;
+  margin: 0 100px
+}
+
+.resumeHead{
+  padding: 45px 0;
+}
+
+.resumeBackground{
+  background-color: white;
+}
+
 /*# sourceMappingURL=style.css.map */
