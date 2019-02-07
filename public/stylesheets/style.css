@@ -23,6 +23,10 @@ a {
   padding: 0 125px;
 }
 
+.resume-back{
+  background-color: black;
+}
+
 .resumeBorder{
   border-radius: 15px;
   border: 1px solid black;
